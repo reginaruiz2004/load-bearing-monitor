@@ -1,0 +1,39 @@
+# Arduino build files
+*.hex
+*.elf
+*.eep
+*.bin
+
+# PlatformIO
+.pio/
+.vscode/
+
+# Arduino IDE
+build/
+*.ino.cpp
+*.ino.elf
+*.ino.hex
+
+# KiCad backup and temporary files
+*-backups/
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.tmp
+~*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
