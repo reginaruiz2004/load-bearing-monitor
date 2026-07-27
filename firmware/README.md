@@ -1,3 +1,3 @@
-# Project Brief
+# Firmware
 
-Project documentation in progress.
+This directory contains embedded software for sensor acquisition, calibration, Bluetooth Low Energy communication, and threshold alerts.
