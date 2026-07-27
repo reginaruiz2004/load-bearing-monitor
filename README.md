@@ -60,36 +60,3 @@ Bluetooth Low Energy
 Clinical Web Dashboard
         ↓
 Visual and Auditory Feedback
-
----
-## Prototype Preview
-
-### Three-Sensor Breadboard Prototype
-
-![Three-sensor breadboard prototype](images/prototypes/3-sensor-breadboard-prototype.png)
-
-This Spring 2026 breadboard prototype was used to verify that three force-sensitive resistors could be read independently through separate Arduino analog inputs. It represents the transition from initial single-sensor testing to multi-channel data acquisition.
-
-### Clinical Dashboard Draft
-
-![Load-Bearing Monitor dashboard draft](dashboard/screenshots/dashboard-draft-design.png)
-
-This dashboard draft presents the planned interface for bilateral plantar-load visualization, regional sensor monitoring, left-versus-right comparison, load asymmetry feedback, and session data display.
-
----
-
-## Work Completed — Spring 2026
-
-During the first development phase, the team completed:
-
-- Clinical need and stakeholder research
-- Review of commercial plantar-pressure monitoring technologies
-- Evaluation of force-sensitive resistor options
-- Microcontroller comparison and preliminary selection
-- Single-sensor breadboard testing
-- Three-sensor breadboard integration
-- Raw analog data acquisition with Arduino
-- Initial dashboard interface development
-- Concept development for the insole and ankle enclosure
-- Preliminary attachment-mechanism evaluation
-- Preliminary failure mode analysis
